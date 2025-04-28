@@ -51,7 +51,7 @@ func main() {
 		}
 	}()
 
-	logg.Info("server stared", logger.ZapField("port", cfg.Port))
+	logg.Info("server started", logger.ZapField("port", cfg.Port))
 
 	<-quit
 
