@@ -1,8 +1,8 @@
 package handler
 
 import (
-	"intergation_service/internal/repository"
-	"intergation_service/internal/service"
+	"integration_service/internal/repository"
+	"integration_service/internal/service"
 	"io"
 	"net/http"
 

@@ -1,4 +1,4 @@
-module intergation_service
+module integration_service
 
 go 1.23.5
 

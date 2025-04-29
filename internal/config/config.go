@@ -1,6 +1,6 @@
 package config
 
-import "intergation_service/internal/utils"
+import "integration_service/internal/utils"
 
 type Config struct {
 	Port     string

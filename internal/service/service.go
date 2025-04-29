@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"context"
 	"encoding/json"
-	"intergation_service/internal/repository"
+	"integration_service/internal/repository"
 	"io"
 	"net/http"
 	"time"

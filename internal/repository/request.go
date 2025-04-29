@@ -2,7 +2,7 @@ package repository
 
 import (
 	"context"
-	"intergation_service/internal/model"
+	"integration_service/internal/model"
 
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"

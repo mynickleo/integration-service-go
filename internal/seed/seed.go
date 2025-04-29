@@ -2,7 +2,7 @@ package seed
 
 import (
 	"context"
-	"intergation_service/internal/model"
+	"integration_service/internal/model"
 	"time"
 
 	"go.mongodb.org/mongo-driver/bson/primitive"
